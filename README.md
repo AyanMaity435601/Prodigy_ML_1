@@ -10,4 +10,4 @@ The goal of this project is to predict the sales price for each house. Given a t
 - **Gradient Boosting**
 - **xgBoost**
 
-  To get detailed explanation, go through the '.ipynb' file
+To get detailed explanation, go through the '.ipynb' file which is in the folder 'House_Price_Prediction'
