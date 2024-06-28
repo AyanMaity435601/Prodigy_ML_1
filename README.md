@@ -8,6 +8,6 @@ The goal of this project is to predict the sales price for each house. Given a t
 - **Random Forest**
 - **Bagging**
 - **Gradient Boosting**
-- **xgBoost**
+- **XgBoost**
 
 To get detailed explanation, go through the '.ipynb' file which is in the folder 'House_Price_Prediction'
